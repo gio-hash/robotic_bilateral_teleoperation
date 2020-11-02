@@ -8,7 +8,6 @@ float k1=0.5,k2=0.5,k3=0.5;
 float b1=0.1,b2 = 0.1,b3=0.1;
 float mass=30;
 float time_step=0.28;
-int i =0;
 geometry_msgs::Point position;
 
 geometry_msgs::Point positiontmp;
