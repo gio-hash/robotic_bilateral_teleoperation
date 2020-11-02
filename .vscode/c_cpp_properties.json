@@ -1,0 +1,29 @@
+{
+    "configurations": [
+        {
+            "browse": {
+                "databaseFilename": "",
+                "limitSymbolsToIncludedHeaders": true
+            },
+            "includePath": [
+                "/home/giovanni/catkin_ws/devel/include/**",
+                "/opt/ros/kinetic/include/**",
+                "/home/giovanni/catkin_ws/src/robotics_project/pkg_environment/include/**",
+                "/home/giovanni/catkin_ws/src/robotics_project/pkg_follower/include/**",
+                "/home/giovanni/catkin_ws/src/robotics_project/pkg_leader/include/**",
+                "/home/giovanni/catkin_ws/src/robotics_project/pkg_network/include/**",
+                "/home/giovanni/catkin_ws/src/robotics_project/pkg_wave_follower/include/**",
+                "/home/giovanni/catkin_ws/src/robotics_project/pkg_wave_leader/include/**",
+                "/home/giovanni/catkin_ws/src/receiver/include/**",
+                "/home/giovanni/catkin_ws/src/sender/include/**",
+                "/usr/include/**"
+            ],
+            "name": "ROS",
+            "intelliSenseMode": "gcc-x64",
+            "compilerPath": "/usr/bin/gcc",
+            "cStandard": "gnu11",
+            "cppStandard": "c++17"
+        }
+    ],
+    "version": 4
+}
